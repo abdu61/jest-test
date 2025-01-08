@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "latest",
+    "@babel/core": "latest",
+    "@babel/preset-env": "latest",
+    "babel-jest": "latest"
+  }
+}
